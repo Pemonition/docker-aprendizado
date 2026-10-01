@@ -1,0 +1,6 @@
+services:
+  ng:
+    build: .
+    image: aprendizado-angular-cli-22
+    volumes:
+      - ./:/app

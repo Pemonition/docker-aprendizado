@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+**/node_modules/
+**/bin/
+**/obj/
+**/.angular/
+**/meu-app/
+aula_api_produto_08_09/
+*.log
